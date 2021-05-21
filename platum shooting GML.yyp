@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "21441d71-4ec2-4728-a89c-a76665d3aa54",
+            "Value": {
+                "id": "8f17add2-7626-4a88-8c1c-828a0ac1dfba",
+                "resourcePath": "sprites\\sPlayerA\\sPlayerA.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2420beca-ae64-486f-8b6b-7a8328966494",
             "Value": {
                 "id": "34f1c37b-22ed-4855-9099-5ae4f3facabf",
@@ -111,6 +119,22 @@
             }
         },
         {
+            "Key": "4d45dec8-77d1-4ca2-a497-b55dd11e5353",
+            "Value": {
+                "id": "d80e668e-966d-4f45-9137-85d6d6a8a3e2",
+                "resourcePath": "tilesets\\tWalls\\tWalls.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "6cc07bc0-c192-4c9d-840c-c23cdd376530",
+            "Value": {
+                "id": "4abddfbb-726e-47e8-9588-6d180e2454e0",
+                "resourcePath": "sprites\\sPlayer_strip16\\sPlayer_strip16.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6d8c8ae2-e58c-4b9f-b77d-6c501a7eb6aa",
             "Value": {
                 "id": "916844fd-cf7b-4a24-8688-955afd3106e0",
@@ -127,6 +151,14 @@
             }
         },
         {
+            "Key": "8a3523f1-f9b1-4099-8b39-172e5c8c64fb",
+            "Value": {
+                "id": "ab075ddb-2455-4049-87d6-32b39206b07e",
+                "resourcePath": "sprites\\sBackground\\sBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8efac740-e8ac-4353-a658-48bd3d4df9ef",
             "Value": {
                 "id": "6bc2609a-7e2d-4ba9-b941-7719b16e888b",
@@ -140,6 +172,14 @@
                 "id": "94d67f19-cf49-45b3-aae7-a35354390653",
                 "resourcePath": "views\\969ab86c-9011-4257-96c2-5bfdb4e16dbf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a11de107-5e99-46ac-bdc7-64eb995c98e8",
+            "Value": {
+                "id": "510ac14d-1c96-470a-8498-f9ec248ae4d8",
+                "resourcePath": "sprites\\sWalls\\sWalls.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -175,6 +215,14 @@
             }
         },
         {
+            "Key": "cab90485-1f3e-40ed-a7ca-1578a34f9d7a",
+            "Value": {
+                "id": "f97360d1-5424-4d9f-b928-82fbebeda5ce",
+                "resourcePath": "sprites\\sClouds\\sClouds.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "bff82073-4b3b-45a2-a9c3-b255aa5e125a",
@@ -183,10 +231,42 @@
             }
         },
         {
+            "Key": "ccf48673-e80e-4d4f-914b-3b51b1e7b9d0",
+            "Value": {
+                "id": "78c68092-9291-4a2c-83c6-56f187c7f56b",
+                "resourcePath": "sprites\\sGrain\\sGrain.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dca6ebe3-502e-4193-bbb3-5bf2260ea1bd",
+            "Value": {
+                "id": "2e7b18d2-ab81-4ccb-9e34-43eae6752268",
+                "resourcePath": "sprites\\sZombie\\sZombie.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dccb14f9-03a7-4473-832a-b566dcc1233c",
             "Value": {
                 "id": "1c3c178c-1b27-4a1d-b4e5-9ab0b37e355f",
                 "resourcePath": "objects\\oWall\\oWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dfcc2ae5-1577-47ab-9100-f549c216afd8",
+            "Value": {
+                "id": "24db0f98-3a26-43f7-a834-d969c7ffbe4e",
+                "resourcePath": "sprites\\sPlayerR\\sPlayerR.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f094609c-d86e-4848-8567-c633e186703b",
+            "Value": {
+                "id": "47e2db2d-2f4a-4597-80c4-5c7fdfd3f112",
+                "resourcePath": "objects\\oZombie\\oZombie.yy",
                 "resourceType": "GMObject"
             }
         },
